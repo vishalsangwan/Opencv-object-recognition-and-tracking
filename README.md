@@ -3,7 +3,7 @@
 Face detection then recognition and then tracking using various algorithms of opencv
 It covers the basic for face detection, recognizing and tracking. 
 
-The programme are divide in steps 
+The programme is divided in steps 
 
 intro.py - reading images and videos from local storage with opencv.
 
